@@ -8,6 +8,6 @@
           <ul>
                     <li> mail: matteozanella2@gmail.com </li>
                     <li> instagram: <a href="https://www.instagram.com/matt.7z/" target="_blank">@matt.7z</a> </li>
-                    <li> web: <a hredf="https://www.zanzi.dev" target="_blank_">www.zanzi.dev</a> </li>
+                    <li> web: <a href="https://www.zanzi.dev" target="_blank_">www.zanzi.dev</a> </li>
           </ul>
 </ul>
