@@ -11,3 +11,5 @@
                     <li> web: <a href="https://www.zanzi.dev" target="_blank_">www.zanzi.dev</a> </li>
           </ul>
 </ul>
+
+![Zanzibarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanzibarr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
