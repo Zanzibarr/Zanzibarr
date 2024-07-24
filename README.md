@@ -1,8 +1,6 @@
 ### Hello there, it's Zanzibar 👋
 
-<p align="center">
-          ![Zanzibarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanzibarr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</p>
+![Zanzibarr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanzibarr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <ul>
 <li>🔭 I’m currently studying for my university master degree <a href="https://www.unipd.it/" target="_blank">@UNIPD</a></li>
