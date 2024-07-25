@@ -64,7 +64,7 @@ My academic interest is leaning toward ths Operations Research field: currently 
 
 ### 👾 My games:
 
-These are games I've made in collaboration with <a href="https://ricksrick.github.io/me/">Riccardo Modolo (aka RickSrick)</a> for some Game Jams and uploaded on <a href="https://itch.io">itch.io</a>.
+These are games I've made in collaboration with <a target="_blank" href="https://ricksrick.github.io/me/">Riccardo Modolo (aka RickSrick)</a> for some Game Jams and uploaded on <a target="_blank" href="https://itch.io">itch.io</a>.
 
 <div align="center">
           <table>
@@ -73,8 +73,8 @@ These are games I've made in collaboration with <a href="https://ricksrick.githu
                               <th>Get My Sword</th>
                     </tr>
                     <tr>
-                              <td><p align="center"><a href="https://ricksrick.itch.io/glitchgun"><img src="https://ricksrick.github.io/static/21a34148a50ea747bab769984cfb641a/59b41/GlitchgunCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
-                              <td><p align="center"><a href="https://ricksrick.itch.io/get-my-sword"><img src="https://ricksrick.github.io/static/6bb30e2352197f829dc28daafd9478af/59b41/getMySwordCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
+                              <td><p align="center"><a target="_blank" href="https://ricksrick.itch.io/glitchgun"><img src="https://ricksrick.github.io/static/21a34148a50ea747bab769984cfb641a/59b41/GlitchgunCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
+                              <td><p align="center"><a target="_blank" href="https://ricksrick.itch.io/get-my-sword"><img src="https://ricksrick.github.io/static/6bb30e2352197f829dc28daafd9478af/59b41/getMySwordCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
                     </tr>
           </table>
 </div>
