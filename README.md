@@ -29,7 +29,7 @@ My academic interest is leaning toward ths Operations Research field: currently 
           </table>
 </div>
 
-### 👨🏻‍💻 LANGUAGES:
+### 👨🏻‍💻 Languages:
 
 <div align="center">
           <table>
@@ -50,7 +50,22 @@ My academic interest is leaning toward ths Operations Research field: currently 
           </table>
 </div>
 
-### 👾 MY GAMES:
+### 📊 Statistics:
+
+<div align="center">
+          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanzibarr&theme=transparent" height="180em" />
+          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
+          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
+          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zanzibarr&theme=transparent&utcOffset=2" height="180em" />
+          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zanzibarr&theme=transparent" height="180em" />
+</div>
+
+---
+
+### 👾 My games:
+
+These are games I've made in collaboration with <a href="https://ricksrick.github.io/me/">Riccardo Modolo (aka RickSrick)</a> for some Game Jams and uploaded on <a href="https://itch.io">itch.io</a>.
+
 <div align="center">
           <table>
                     <tr>
@@ -62,16 +77,6 @@ My academic interest is leaning toward ths Operations Research field: currently 
                               <td><p align="center"><a href="https://ricksrick.itch.io/get-my-sword"><img src="https://ricksrick.github.io/static/6bb30e2352197f829dc28daafd9478af/59b41/getMySwordCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
                     </tr>
           </table>
-</div>
-
-### 📊 STATISTICS:
-
-<div align="center">
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanzibarr&theme=transparent" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zanzibarr&theme=transparent&utcOffset=2" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zanzibarr&theme=transparent" height="180em" />
 </div>
 
 ---
