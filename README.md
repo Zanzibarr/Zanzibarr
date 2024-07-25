@@ -23,13 +23,13 @@ My academic interest is leaning toward ths Operations Research field: currently 
                     </tr>
                     <tr>
                               <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/></p></td>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Linux" alt="Linux" width="55" height="55"/></p></td>
+                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/></p></td>
                               <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/></p></td>
                     </tr>
           </table>
 </div>
 
-### 👨🏻‍💻 LANGUAGES
+### 👨🏻‍💻 LANGUAGES:
 
 <div align="center">
           <table>
@@ -50,7 +50,21 @@ My academic interest is leaning toward ths Operations Research field: currently 
           </table>
 </div>
 
-### 📊 STATISTICS
+### 👾 MY GAMES:
+<div align="center">
+          <table>
+                    <tr>
+                              <th>GlitchGun</th>
+                              <th>Get My Sword</th>
+                    </tr>
+                    <tr>
+                              <td><p align="center"><a href="https://ricksrick.itch.io/glitchgun"><img src="https://ricksrick.github.io/static/21a34148a50ea747bab769984cfb641a/59b41/GlitchgunCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
+                              <td><p align="center"><a href="https://ricksrick.itch.io/get-my-sword"><img src="https://ricksrick.github.io/static/6bb30e2352197f829dc28daafd9478af/59b41/getMySwordCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
+                    </tr>
+          </table>
+</div>
+
+### 📊 STATISTICS:
 
 <div align="center">
           <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanzibarr&theme=transparent" height="180em" />
