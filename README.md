@@ -1,90 +1,88 @@
-## Hello there, it's Zanzibar 👋
+## 🌍 Hello World, I'm **Zanzibar** 👋
 
-## 👤 About Me:
+### 👤 **About Me**
 
-My name is Matteo Zanella and I'm an italian student <a href="https://www.dei.unipd.it/home-page" target="_blank">@UniPD</a>.
+Hi! My name is **Matteo Zanella**, and I'm an Italian student currently pursuing my master's degree in Computer Engineering at the [University of Padova](https://www.dei.unipd.it/home-page).  
 
-I received my bachelor's degree with honors and am currently pursuing my master's degree in Computer Engineering.
-
-My academic interest is leaning toward ths Operations Research field: currently working on my master thesis in using a M.I.P. solver to find a solution to the delete free relaxation of a plannin task.
+I graduated with honors in my bachelor's and am now delving deep into **Operations Research** for my master’s thesis. My research focuses on using a **Mixed Integer Programming (MIP)** solver to find solutions to the delete-free relaxation of a planning task.
 
 ---
 
-## 💡 Skills
+## 💡 **Skills**
 
-### 🖥️ OS:
+### 🖥️ **Operating Systems**
 
 <div align="center">
-          <table>
-                    <tr>
-                              <th>MacOS</th>
-                              <th>Debian</th>
-                              <th>Windows</th>
-                    </tr>
-                    <tr>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/></p></td>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/></p></td>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/></p></td>
-                    </tr>
-          </table>
+  <table>
+    <tr>
+      <th>MacOS</th>
+      <th>Debian</th>
+      <th>Windows</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/></td>
+    </tr>
+  </table>
 </div>
 
-### 👨🏻‍💻 Languages:
+### 👨🏻‍💻 **Programming Languages**
 
 <div align="center">
-          <table>
-                    <tr>
-                              <th>C</th>
-                              <th>C++</th>
-                              <th>Python</th>
-                              <th>Java</th>
-                              <th>Rust</th>
-                    </tr>
-                    <tr>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/></p></td>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/></p></td>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></p></td>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></p></td>
-                              <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/></p></td>
-                    </tr>
-          </table>
+  <table>
+    <tr>
+      <th>C</th>
+      <th>C++</th>
+      <th>Python</th>
+      <th>Java</th>
+      <th>Rust</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/></td>
+    </tr>
+  </table>
 </div>
 
-### 📊 Statistics:
+### 📊 **GitHub Stats**
 
 <div align="center">
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanzibarr&theme=transparent" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zanzibarr&theme=transparent&utcOffset=2" height="180em" />
-          <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zanzibarr&theme=transparent" height="180em" />
-</div>
-
----
-
-### 👾 My games:
-
-These are games I've made in collaboration with <a target="_blank" href="https://ricksrick.github.io/me/">Riccardo Modolo (aka RickSrick)</a> for some Game Jams and uploaded on <a target="_blank" href="https://itch.io">itch.io</a>.
-
-<div align="center">
-          <table>
-                    <tr>
-                              <th>GlitchGun</th>
-                              <th>Get My Sword</th>
-                    </tr>
-                    <tr>
-                              <td><p align="center"><a target="_blank" href="https://ricksrick.itch.io/glitchgun"><img src="https://ricksrick.github.io/static/21a34148a50ea747bab769984cfb641a/59b41/GlitchgunCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
-                              <td><p align="center"><a target="_blank" href="https://ricksrick.itch.io/get-my-sword"><img src="https://ricksrick.github.io/static/6bb30e2352197f829dc28daafd9478af/59b41/getMySwordCover.webp" title="GetMySword" alt="GetMySword" width="100"/></a></p></td>
-                    </tr>
-          </table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanzibarr&theme=transparent" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zanzibarr&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zanzibarr&theme=transparent&utcOffset=2" height="180em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zanzibarr&theme=transparent" height="180em"/>
 </div>
 
 ---
 
-## 📫 Contacts:
+### 🎮 **My Games**
+
+Here are a couple of games I've developed in collaboration with [Riccardo Modolo (aka RickSrick)](https://ricksrick.github.io/me/) for various Game Jams, which we've uploaded on [itch.io](https://itch.io).
+
+<div align="center">
+  <table>
+    <tr>
+      <th>GlitchGun</th>
+      <th>Get My Sword</th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://ricksrick.itch.io/glitchgun" target="_blank"><img src="https://ricksrick.github.io/static/21a34148a50ea747bab769984cfb641a/59b41/GlitchgunCover.webp" title="GlitchGun" alt="GlitchGun" width="100"/></a></td>
+      <td align="center"><a href="https://ricksrick.itch.io/get-my-sword" target="_blank"><img src="https://ricksrick.github.io/static/6bb30e2352197f829dc28daafd9478af/59b41/getMySwordCover.webp" title="Get My Sword" alt="Get My Sword" width="100"/></a></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 **Get in Touch**
 
 <ul>
-          <li> mail : <a href="mailto:matteozanella2@gmail.com"> matteozanella2@gmail.com </a></li>
-          <li> instagram : <a href="https://www.instagram.com/matt.7z">matt.7z</a></li>
-          <li> web : <a href="https://www.zanzi.dev">www.zanzi.dev</a></li>
+  <li>📧 Email: <a href="mailto:matteozanella2@gmail.com">matteozanella2@gmail.com</a></li>
+  <li>📷 Instagram: <a href="https://www.instagram.com/matt.7z">matt.7z</a></li>
+  <li>🌐 Website: <a href="https://www.zanzi.dev">www.zanzi.dev</a></li>
 </ul>
