@@ -36,14 +36,12 @@ I graduated with honors in my bachelor's and am now delving deep into **Operatio
       <th>C++</th>
       <th>Python</th>
       <th>Java</th>
-      <th>Rust</th>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/></td>
     </tr>
   </table>
 </div>
