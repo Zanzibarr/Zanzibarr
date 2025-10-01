@@ -69,8 +69,8 @@ Here are a couple of games I've developed in collaboration with [Riccardo Modolo
       <th>Get My Sword</th>
     </tr>
     <tr>
-      <td align="center"><a href="https://ricksrick.itch.io/glitchgun" target="_blank"><img src="https://ricksrick.github.io/static/21a34148a50ea747bab769984cfb641a/59b41/GlitchgunCover.webp" title="GlitchGun" alt="GlitchGun" width="100"/></a></td>
-      <td align="center"><a href="https://ricksrick.itch.io/get-my-sword" target="_blank"><img src="https://ricksrick.github.io/static/6bb30e2352197f829dc28daafd9478af/59b41/getMySwordCover.webp" title="Get My Sword" alt="Get My Sword" width="100"/></a></td>
+      <td align="center"><a href="https://ricksrick.itch.io/glitchgun" target="_blank"><img src="https://ricksrick.github.io/me/images/game_cover/glitchguncover.webp" title="GlitchGun" alt="GlitchGun" width="100"/></a></td>
+      <td align="center"><a href="https://ricksrick.itch.io/get-my-sword" target="_blank"><img src="https://ricksrick.github.io/me/images/game_cover/getmyswordcover.webp" title="Get My Sword" alt="Get My Sword" width="100"/></a></td>
     </tr>
   </table>
 </div>
