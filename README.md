@@ -2,9 +2,9 @@
 
 ### 👤 **About Me**
 
-Hi! My name is **Matteo Zanella**, and I'm an Italian student currently pursuing my master's degree in Computer Engineering at the [University of Padova](https://www.dei.unipd.it/home-page).  
+Hi! My name is **Matteo Zanella**, and I'm an Italian student currently pursuing a PhD in Computer Engineering at the [University of Padova](https://www.dei.unipd.it/home-page).  
 
-I graduated with honors in my bachelor's and am now delving deep into **Operations Research** for my master’s thesis. My research focuses on using a **Mixed Integer Programming (MIP)** solver to find solutions to the delete-free relaxation of a planning task.
+I graduated with honors in my bachelor and master degrees and am now delving deep into **Operations Research** for my PhD. My research focuses on **Mixed Integer Programming (MIP)** and **AI Planning**.
 
 ---
 
