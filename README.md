@@ -82,5 +82,4 @@ Here are a couple of games I've developed in collaboration with [Riccardo Modolo
 <ul>
   <li>📧 Email: <a href="mailto:matteozanella2@gmail.com">matteozanella2@gmail.com</a></li>
   <li>📷 Instagram: <a href="https://www.instagram.com/matt.7z">matt.7z</a></li>
-  <li>🌐 Website: <a href="https://www.zanzi.dev">www.zanzi.dev</a></li>
 </ul>
